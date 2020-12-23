@@ -6,12 +6,6 @@ If number of characters is >= 140 characters, we can tweet (Twitter button activ
 I used Keydown, addEventListeners, add and remove a class
 
 
-### 👤 **SHEY Louis CHIA**
-
-- Github: [shloch](https://github.com/shloch)
-- Twitter: [@shloch](https://twitter.com/shloch)
-- Linkedin: [/in/shey-louis-chia](https://www.linkedin.com/in/shey-louis-chia)
-- Email: shloch2007@yahoo.fr
 
 ## Live demo
 Have a taste of the result:
@@ -21,3 +15,11 @@ https://raw.githack.com/shloch/Twitter-Character-Count/main/index.html
 
 ## Acknowledgements
 - https://scrimba.com/scrim/co2894baa8b34cade34b93291
+
+
+### 👤 **SHEY Louis CHIA**
+
+- Github: [shloch](https://github.com/shloch)
+- Twitter: [@shloch](https://twitter.com/shloch)
+- Linkedin: [/in/shey-louis-chia](https://www.linkedin.com/in/shey-louis-chia)
+- Email: shloch2007@yahoo.fr
