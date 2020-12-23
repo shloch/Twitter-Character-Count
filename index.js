@@ -31,14 +31,18 @@ function removeDisableClass() {
 
 function showText() {
     let counterDisplay = document.getElementById("counterFooter")
-    let numberChars = textArea.value.length+1
-    counterDisplay.innerHTML = `${numberChars}/140`
+    let numberChars = textArea.value.length - 1
+    counterDisplay.innerHTML = `${140 - numberChars}/140`
     if(numberChars > 140) {  
         button.disabled = true
         addDisableClass()
-    } else {
+        counterDisplay.style.color = 'red'; 
+    } else if((numberChars >= 120) && (numberChars <=140)) {
+         counterDisplay.style.color = 'red'; 
+    }else{
         button.disabled = false
         removeDisableClass()
+        counterDisplay.style.color = 'white';
     }
 }
 textArea.addEventListener("keydown", function(event){
