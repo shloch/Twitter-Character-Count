@@ -1,6 +1,6 @@
 # Twitter-Character-Count
 
-We are making a Social Media Character Counter! We want to display the available characters LEFT.
+Making a Social Media Character Counter!  to display the available characters LEFT.
 If number of characters is >= 140 characters, we can tweet (Twitter button active). Above this number, the Twitter button is disabled.
 
 I used Keydown, addEventListeners, add and remove a class
