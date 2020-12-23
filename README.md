@@ -11,7 +11,7 @@ I used Keydown, addEventListeners, add and remove a class
 Have a taste of the result:
 https://raw.githack.com/shloch/Twitter-Character-Count/main/index.html
 
-![alt text](https://github.com/shloch/Twitter-Character-Count/blob/main/tweeter.gif)
+![alt text](https://github.com/shloch/Twitter-Character-Count/blob/main/teeter2.gif)
 
 ## Acknowledgements
 - https://scrimba.com/scrim/co2894baa8b34cade34b93291
