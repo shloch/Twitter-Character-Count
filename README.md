@@ -15,9 +15,9 @@ I used Keydown, addEventListeners, add and remove a class
 
 ## Live demo
 Have a taste of the result:
-_https://rawcdn.githack.com/shloch/Building-with-Backgrounds-and-Gradients/cabd72faf09a598440c9b7d275e71ee24ca427b9/index.html_
+https://raw.githack.com/shloch/Twitter-Character-Count/main/index.html
 
-![alt text](https://github.com/shloch/Building-with-Backgrounds-and-Gradients/blob/master/assets/images/apple.gif)
+![alt text](https://github.com/shloch/Twitter-Character-Count/blob/main/tweeter.gif)
 
 ## Acknowledgements
-- https://scrimba.com
+- https://scrimba.com/scrim/co2894baa8b34cade34b93291
